@@ -12,7 +12,7 @@ have a strong interest in open source and open standards. I am a strong
 believer in the power of open source and the community that surrounds it.
 
 
-👨 [About Me](about/) 🏠 [Website](http://www.toor.se) 🔗 [LinkedIn](https://www.linkedin.com/in/staffanob/) 
+[About Me](about/) | [Website](http://www.toor.se) | [LinkedIn](https://www.linkedin.com/in/staffanob/) 
 
 
 <!---
