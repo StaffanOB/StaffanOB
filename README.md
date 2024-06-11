@@ -13,6 +13,9 @@ believer in the power of open source and the community that surrounds it.
 
 
 * [About Me](about/)
+* [Website](http://www.toor.se)
+* [LinkedIn](https://www.linkedin.com/in/staffanob/)
+
 
 
 <!---
@@ -20,4 +23,3 @@ StaffanOB/StaffanOB is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[website]: http://www.toor.se
